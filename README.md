@@ -50,6 +50,10 @@ Para rodar este projeto, você precisará de:
 #### Solução:
 Utilizar um `<form>` para encapsular o campo de entrada e o botão, garantindo que a tecla Enter envie os dados corretamente.
 
+## 🌐 Deploy
+
+Você pode acessar a aplicação através do seguinte link: [Amigo Secreto](https://leojaques.github.io/ONE-amigo-secreto/)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
